@@ -116,7 +116,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary> 📝 Allow users to create tickets without an account 📝</summary>
+  <summary>📝 Allow users to create tickets without an account</summary>
 
 - On the Admin Panel, hover over `Settings`, then click `Users`.
 
