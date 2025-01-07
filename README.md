@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-<p>This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.</p>
+<p>This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.</p><br/>
 <br/>
 
 This project is a continuation of the [osTicket: Prerequisites and Installation]([https://github.com/ccollins-21/osTicket-Prerequisites-and-Installation](https://github.com/steveabner/osticket-prereqs)) project.
