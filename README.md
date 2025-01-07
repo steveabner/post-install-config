@@ -1,16 +1,20 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket Logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This project demonstrates the comprehensive post-installation configuration of the osTicket ticketing system. It builds upon the foundational setup from the [osTicket: Prerequisites and Installation](https://github.com/steveabner/osticket-prereqs) project.br/> 
-<br/>
+<h1 align="center">osTicket - Post-Install Configuration</h1>
 
-Key configurations include setting up roles, departments, teams, agents, users, and SLAs, ensuring an efficient and functional helpdesk environment. The project provides step-by-step guidance with visuals, offering practical insights into managing and optimizing a ticketing system for real-world IT support scenarios.<br/>
-<br/>
+<p>
+This project demonstrates the comprehensive post-installation configuration of the <strong>osTicket</strong> ticketing system. It builds upon the foundational setup covered in the <a href="https://github.com/steveabner/osticket-prereqs">osTicket: Prerequisites and Installation</a> project.
+</p>
 
-This project is a continuation of the [osTicket: Prerequisites and Installation](https://github.com/steveabner/osticket-prereqs) project.
-<br/>
+<p>
+Key configurations include setting up roles, departments, teams, agents, users, and SLAs to ensure an efficient and functional helpdesk environment. This guide offers step-by-step instructions with visuals, providing practical insights into managing and optimizing a ticketing system for real-world IT support scenarios.
+</p>
+
+<p>
+This project is a continuation of the <a href="https://github.com/steveabner/osticket-prereqs">osTicket: Prerequisites and Installation</a> project.
+</p>
 
 <h2>Video Demonstration</h2>
 
