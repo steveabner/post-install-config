@@ -34,7 +34,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 <h2>⚙️ Configuration Steps</h2>
 
 <details>
-  <summary>👤 Configure Roles</summary>
+ 1️⃣ <summary>👤 Configure Roles</summary>
 
 
 
@@ -43,7 +43,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>Configure Roles</summary>
+  <summary>1️⃣ Configure Roles</summary>
 </details>
 
 <details>
@@ -65,3 +65,6 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 <details>
   <summary>Configure Roles</summary>
 </details>
+
+
+<!-- 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ -->
