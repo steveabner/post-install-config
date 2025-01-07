@@ -39,7 +39,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 `⬇️ Click to Expand ⬇️`
 <details>
-  <summary>1️⃣ 👤 Configure an Admin Role 👤</summary>
+  <summary> 👤 Configure an Admin Role 👤</summary>
 
 - Log into osTicket through the admin page.
 
@@ -74,7 +74,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>2️⃣ 🛠️ Create a SysAdmin Department 🛠️</summary>
+  <summary> 🛠️ Create a SysAdmin Department 🛠️</summary>
 
 - On the admin panel, hover over `Agents`, then click `Departments` 
 
@@ -95,7 +95,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>3️⃣ 🤝 Configure a Team 🤝</summary>
+  <summary> 🤝 Configure a Team 🤝</summary>
 
 - On the Admin Panel, Hover over `Agents`, then click `Teams`
 
@@ -116,7 +116,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>4️⃣ 📝 Allow users to create tickets without an account 📝</summary>
+  <summary> 📝 Allow users to create tickets without an account 📝</summary>
 
 - On the Admin Panel, hover over `Settings`, then click `Users`.
 
@@ -129,7 +129,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>5️⃣ 👥 Create Agents (Workers) 👥</summary>
+  <summary> 👥 Create Agents (Workers) 👥</summary>
 
 - On the Admin Panel, click `Agents`.
 
@@ -181,7 +181,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>6️⃣ 👥 Configure Users (Customers) 👥</summary>
+  <summary> 👥 Configure Users (Customers) 👥</summary>
 
 - On the osTicket dashboard, I'll click `Agent Panel` at the top-right of the browser.
 
@@ -210,7 +210,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>7️⃣ 📜 Configure SLA 📜</summary>
+  <summary> 📜 Configure SLA 📜</summary>
 
 
 
