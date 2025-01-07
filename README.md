@@ -33,8 +33,8 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 <h2>⚙️ Configuration Steps</h2>
 
-<details>
- 1️⃣ <summary>👤 Configure Roles</summary>
+<details>1️⃣
+  <summary>👤 Configure Roles</summary>
 
 
 
