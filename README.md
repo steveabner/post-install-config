@@ -13,7 +13,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
-<h2>🌍 Environments and Technologies Used</h2>
+<h2>🌍 Environments and Technologies Used 🌍</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -38,7 +38,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 - And this is the User URL http://localhost/osTicket
   
 <details>
-  <summary>1️⃣ 👤 Configure an Admin Role</summary>
+  <summary>1️⃣ 👤 Configure an Admin Role 👤</summary>
 
 - Log into osTicket through the admin page.
 
@@ -73,7 +73,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>2️⃣ 🛠️ Create a SysAdmin Department</summary>
+  <summary>2️⃣ 🛠️ Create a SysAdmin Department 🛠️</summary>
 
 - On the admin panel, hover over `Agents`, then click `Departments` 
 
@@ -94,7 +94,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>3️⃣ 👥 Configure a Team</summary>
+  <summary>3️⃣ 🤝 Configure a Team 🤝</summary>
 
 - On the Admin Panel, Hover over `Agents`, then click `Teams`
 
@@ -115,7 +115,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>4️⃣ 📝 Allow users to create tickets without an account</summary>
+  <summary>4️⃣ 📝 Allow users to create tickets without an account 📝</summary>
 
 - On the Admin Panel, hover over `Settings`, then click `Users`.
 
@@ -128,7 +128,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>5️⃣ 👤 Create Agents (Workers)</summary>
+  <summary>5️⃣ 👥 Create Agents 👥(Workers)</summary>
 
 - On the Admin Panel, click `Agents`.
 
@@ -177,12 +177,34 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
   ![2025-01-06 23_44_47-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/c19f08b8-b1ef-4002-b961-a630c7fbbb7c)
 
-<!-- </details>
-
-<details>
-  <summary>Configure Roles</summary>
 </details>
 
+<details>
+  <summary>6️⃣ 👥 Configure Users 👥 (Customers)</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
+
+
+
+
+
+
+
+<!--
 <details>
   <summary>Configure Roles</summary>
 </details>
