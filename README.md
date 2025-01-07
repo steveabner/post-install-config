@@ -300,3 +300,7 @@ Key configurations include setting up roles, departments, teams, agents, users, 
   ![2025-01-07 12_41_20-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f5f5f37c-dd8b-40e6-9062-4f0f480cf983)
 
 </details>
+
+## 📜 Project Summary
+
+In this project, I configured key elements of the osTicket ticketing system, including setting up roles, departments, teams, agents, users, and SLAs. Building on the initial installation, I optimized the system for efficient helpdesk management, providing step-by-step instructions and visual aids to help users navigate the post-installation setup.
