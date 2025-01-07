@@ -182,31 +182,48 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 <details>
   <summary>6️⃣ 👥 Configure Users (Customers) 👥</summary>
 
+- On the osTicket dashboard, I'll click `Agent Panel` at the top-right of the browser.
 
+  ![2025-01-07 11_16_11-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/0840114c-f385-4cbc-a55c-6e157d1ae978)
 
+- On the Agent Panel, I'll click `Users`
 
+  ![2025-01-07 11_17_50-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/1ae3bedd-ff23-4bf1-aa97-26edb9d974b9)
 
+- On the User page, click `Add User`
 
+  ![2025-01-07 11_19_17-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d7a2f801-fc63-43c2-9be7-eefb6a94388e)
 
+- I'll input the name `Sarah`, an email, then click `Add User`
 
+  ![2025-01-07 11_22_26-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/47ec41d9-419d-4946-9502-97206307859b)
 
+- I'll do this once more, and create another User named `Karen`.
 
+  ![2025-01-07 11_25_48-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/de209247-bdb3-40c4-913b-e42927f98a5f)
 
+- Now I have two Users, `Sarah` and `Karen`.
 
-
-
+  ![2025-01-07 11_26_09-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/1d7c0a3c-6383-4bbb-81aa-a7ddd6c9cc28)
 
 </details>
 
-
-
-
-
-
-
-<!--
 <details>
-  <summary>Configure Roles</summary>
+  <summary>7️⃣ 📜 Configure SLA 📜</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
 
 
