@@ -68,7 +68,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 - I now have an Admin Role.
 
-  ![2025-01-06 22_15_18-Window](https://github.com/user-attachments/assets/8a359a2e-b26d-4958-9bb9-cad1f77d5958)
+  ![2025-01-06 22_15_18-Window](https://github.com/user-attachments/assets/bc246678-2cd4-45d0-a51c-a6c6e9700f7a)
 
 </details>
 
