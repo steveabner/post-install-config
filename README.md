@@ -12,10 +12,6 @@ This project demonstrates the comprehensive post-installation configuration of t
 Key configurations include setting up roles, departments, teams, agents, users, and SLAs to ensure an efficient and functional helpdesk environment. This guide offers step-by-step instructions with visuals, providing practical insights into managing and optimizing a ticketing system for real-world IT support scenarios.
 </p>
 
-<p>
-This project is a continuation of the <a href="https://github.com/steveabner/osticket-prereqs">osTicket: Prerequisites and Installation</a> project.
-</p>
-
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
