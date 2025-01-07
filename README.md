@@ -114,7 +114,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 </details>
 
-<details>
+1️⃣ <details>
   <summary>📝 Allow users to create tickets without an account</summary>
 
 - On the Admin Panel, hover over `Settings`, then click `Users`
@@ -125,8 +125,6 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
   ![2025-01-06 22_52_53-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a62a537c-0b52-4df6-9e86-be388014b882)
 
-
-  
 </details>
 
 <details>
