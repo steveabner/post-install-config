@@ -73,7 +73,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>2️⃣ 🧑‍💻 Create a SysAdmin Department</summary>
+  <summary>2️⃣ 🛠️ Create a SysAdmin Department</summary>
 
 - On the admin panel, hover over `Agents`, then click `Departments` 
 
