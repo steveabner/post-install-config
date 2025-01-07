@@ -62,9 +62,9 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 - On the Permissions tab, I will check every permission in the `Tickets`, `Tasks`, and `Knowledgebase` tabs. Then click `Add Role`.
 
-  ![2025-01-06 22_08_48-Window](https://github.com/user-attachments/assets/8b29dda7-a3f4-4c26-b8d7-32024b32d8fa)
-  ![2025-01-06 22_09_05-Window](https://github.com/user-attachments/assets/2b323d0c-80fa-49ab-9903-474216931f30)
-  ![2025-01-06 22_09_17-Window](https://github.com/user-attachments/assets/f3e53c3d-38a7-438c-b6bf-4db989811a15)
+  ![2025-01-06 22_08_48-Window](https://github.com/user-attachments/assets/da84e14d-2d43-4d20-9cde-3850622247c3)
+  ![2025-01-06 22_09_05-Window](https://github.com/user-attachments/assets/25331469-7de7-4cd6-aec4-1c56a883e384)
+  ![2025-01-06 22_09_17-Window](https://github.com/user-attachments/assets/ad9b7fdc-7299-42df-90cb-df0516afa1a8)
 
 - I now have an Admin Role.
 
