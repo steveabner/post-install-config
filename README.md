@@ -214,9 +214,9 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 ### In this section, I'll be creating 3 SLAs.
   
-  - Sev-A (Grace Period: 1 Hour, Schedule: 24/7)
-  - Sev-B (Grace Period: 4 Hours, Schedule: 24/7)
-  - Sev-C (Grace Period: 8 Hours, Schedule: 24/7)
+Sev-A (Grace Period: 1 Hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 Hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 Hours, Schedule: 24/7)
 
 - On the Admin Panel, hover over `Manage`, then click `SLA`.
 
