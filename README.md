@@ -165,7 +165,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
   ![2025-01-06 23_36_14-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d2cb0d79-3447-450e-b831-a6f4820d2989)
 
-- I'll do the same as before, I'll input the name `Jane Doe`, set a fake email, and set a password.
+- I'll input the name `Jane Doe`, set a fake email, and set a password.
 
   ![2025-01-06 23_38_25-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/80de9c3f-e44f-4797-8731-87c281284f41)
 
@@ -176,8 +176,6 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 - On the Access tab, I'll select the `Support` department, set the role to `All Access`, then click `Create`
 
   ![2025-01-06 23_44_47-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/c19f08b8-b1ef-4002-b961-a630c7fbbb7c)
-
-
 
 </details>
 
