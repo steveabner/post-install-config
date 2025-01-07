@@ -43,6 +43,8 @@ Key configurations include setting up roles, departments, teams, agents, users, 
   <li><strong>Admin Login URL:</strong> <a href="http://localhost/osTicket/scp/login.php" target="_blank">http://localhost/osTicket/scp/login.php</a></li>
 </ul>
 
+---
+
 <p><strong>⬇️ Click to Expand ⬇️</strong></p>
 <details>
   <summary>👤 Configure an Admin Role</summary>
