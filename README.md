@@ -218,6 +218,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 - Sev-B (Grace Period: 4 Hours, Schedule: 24/7)
 - Sev-C (Grace Period: 8 Hours, Schedule: 24/7)
 
+---
 
 - On the Admin Panel, hover over `Manage`, then click `SLA`.
 
