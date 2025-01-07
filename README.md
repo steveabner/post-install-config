@@ -228,16 +228,22 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
   ![2025-01-07 11_38_55-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/3b61a268-76c2-4396-96d0-f6a1ecc6f324)
 
-- 
+- I'll name the first SLA `Sev-A`, set the grace period to `1 Hour`, and set the schedule to `24/7`, then click `Add Plan`.
+
+  ![2025-01-07 11_46_03-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/4e1dc6f6-ed12-40bc-993e-669ac42af638)
+
+- Click `Add New SLA Plan` again, and name it `Sev-B` set the grace period to `4 Hours`, and schedule to `24/7`, then click `Add Plan`
+
+  ![2025-01-07 11_49_45-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/963fea49-3b7a-4535-8953-9269c6a319b0)
 
 
+- And finally, create another SLA called `Sev-C`, set the grace period to `8 Hours`. But this time, I'll set the schedule to `Business Hours, Mon - Fri`, then click `Add Plan`
 
+  ![2025-01-07 11_55_03-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f0427c9b-8847-44eb-b2fb-02eeec426c4e)
 
+- The SLAs have been created!
 
-
-
-
-
+  ![2025-01-07 11_56_37-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/7aa6ff60-7da7-411d-b901-b8a6c96e0c63)
 
 </details>
 
