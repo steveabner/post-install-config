@@ -28,7 +28,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 - Configuring roles, departments, and teams
 - Configuring agents and users
-- Configuring SLA
+- Configuring SLAs
 - Configuring Help Topics
 
 <h2>Configuration Steps</h2>
