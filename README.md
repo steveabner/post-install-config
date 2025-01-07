@@ -36,7 +36,8 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 - In this section, I will be using the Admin/Analyst Login Page and the End Users osTicket URL.
 - Admin Login URL - http://localhost/osTicket/scp/login.php
 - User URL - http://localhost/osTicket
-  
+
+⬇️ Click to Expand ⬇️
 <details>
   <summary>1️⃣ 👤 Configure an Admin Role 👤</summary>
 
