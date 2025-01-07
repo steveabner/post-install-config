@@ -44,8 +44,6 @@ Key configurations include setting up roles, departments, teams, agents, users, 
   <li><strong>User URL:</strong> <a href="http://localhost/osTicket" target="_blank">http://localhost/osTicket</a></li>
 </ul>
 
-<p>Ensure you have administrative privileges to access the Admin Login Page and start configuring your osTicket system.</p>
-
 `⬇️ Click to Expand ⬇️`
 <details>
   <summary>👤 Configure an Admin Role</summary>
