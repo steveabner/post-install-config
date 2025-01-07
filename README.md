@@ -7,7 +7,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br/>
 
 This project is a continuation of the [osTicket: Prerequisites and Installation](https://github.com/steveabner/osticket-prereqs) project.
-<br/>
+<be />
 
 <h2>Video Demonstration</h2>
 
