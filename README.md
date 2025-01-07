@@ -177,7 +177,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
   ![2025-01-06 23_44_47-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/c19f08b8-b1ef-4002-b961-a630c7fbbb7c)
 
-</details>
+<!-- </details>
 
 <details>
   <summary>Configure Roles</summary>
