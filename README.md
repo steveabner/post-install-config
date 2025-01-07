@@ -73,11 +73,30 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary> Configure Roles</summary>
+  <summary>2️⃣ 🧑‍💻 Create a SysAdmin Department</summary>
+
+- On the admin panel, hover over `Agents`, then click `Departments` 
+
+  ![2025-01-06 22_20_54-Window](https://github.com/user-attachments/assets/45778ea4-b6b8-4bcd-ae16-f4de879a8a44)
+
+- On the Departments page, click `Add New Department`
+
+  ![2025-01-06 22_22_13-Window](https://github.com/user-attachments/assets/17f0b4b4-3bf2-490d-a168-505f3ea13919)
+
+- I'll name the department `SysAdmin`, then click `Create Dept`. Leave other settings as `Default` for now.
+
+  ![2025-01-06 22_25_34-Window](https://github.com/user-attachments/assets/158dc599-b56b-4f5c-bc53-0e7f6a38676f)
+
+- I now have a SysAdmin department set up.
+
+  ![2025-01-06 22_29_30-Window](https://github.com/user-attachments/assets/8558a2f6-cb68-4411-8573-cf7c8ac368dd)
+
 </details>
 
 <details>
-  <summary>Configure Roles</summary>
+  <summary>3️⃣ 👥 Configure a Team</summary>
+
+  
 </details>
 
 <details>
