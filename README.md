@@ -31,5 +31,37 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 - Configuring SLAs
 - Configuring Help Topics
 
-<h2>Configuration Steps</h2>
+<h2>⚙️ Configuration Steps</h2>
 
+<details>
+  <summary>👤 Configure Roles</summary>
+
+
+
+
+  
+</details>
+
+<details>
+  <summary>Configure Roles</summary>
+</details>
+
+<details>
+  <summary>Configure Roles</summary>
+</details>
+
+<details>
+  <summary>Configure Roles</summary>
+</details>
+
+<details>
+  <summary>Configure Roles</summary>
+</details>
+
+<details>
+  <summary>Configure Roles</summary>
+</details>
+
+<details>
+  <summary>Configure Roles</summary>
+</details>
