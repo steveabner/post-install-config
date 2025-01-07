@@ -5,7 +5,7 @@
 <h1 align="center">osTicket - Post-Install Configuration</h1>
 
 <p>
-This project demonstrates the comprehensive post-installation configuration of the <strong>osTicket</strong> ticketing system. It builds upon the foundational setup covered in the <a href="https://github.com/steveabner/osticket-prereqs">osTicket: Prerequisites and Installation</a> project.
+This project demonstrates the comprehensive post-installation configuration of the <strong>osTicket</strong> ticketing system. It builds upon the foundational setup covered in my <a href="https://github.com/steveabner/osticket-prereqs">osTicket: Prerequisites and Installation</a> project.
 </p>
 
 <p>
