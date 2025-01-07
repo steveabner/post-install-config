@@ -25,10 +25,11 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
+
 - Configuring roles, departments, and teams
 - Configuring agents and users
 - Configuring SLA
-- 
+- Configuring Help Topics
 
 <h2>Configuration Steps</h2>
 
