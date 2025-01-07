@@ -96,7 +96,22 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 <details>
   <summary>3️⃣ 👥 Configure a Team</summary>
 
-  
+- On the Admin Panel, Hover over `Agents`, then click `Teams`
+
+  ![2025-01-06 22_42_19-Window](https://github.com/user-attachments/assets/8c02e93f-6a05-4f9e-b99b-ce782429c91a)
+
+- On the teams panel, click `Add New Team`
+
+  ![2025-01-06 22_43_28-Window](https://github.com/user-attachments/assets/38499a6a-8659-4084-a508-a51ce9cde6e3)
+
+- I'll name it `Online-Banking`, then click `Create Team`. I'll leave everything else as is. 
+
+  ![2025-01-06 22_44_25-Window](https://github.com/user-attachments/assets/67a51df9-a191-4126-947e-675a3293c5ff)
+
+- I now have a team called Online-Banking.
+
+  ![2025-01-06 22_46_18-Window](https://github.com/user-attachments/assets/7dba1b7c-ed2e-4d9d-83f6-61dce706b528)
+
 </details>
 
 <details>
