@@ -288,8 +288,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
   ![2025-01-07 12_36_22-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/7d6b49da-d884-451d-a036-0f2452b352cb)
 
-- The help topics have been created!
-- Apologies for the redundancy in this section, but creating help topics for both customers and agents is a crucial step because it helps streamline the ticketing process and enhances the overall efficiency of the system.
+- The help topics have been created! I apologize for the redundancy in this section, but creating help topics for both customers and agents is a crucial step because it helps streamline the ticketing process and enhances the overall efficiency of the system.
 
   ![2025-01-07 12_41_20-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f5f5f37c-dd8b-40e6-9062-4f0f480cf983)
 
