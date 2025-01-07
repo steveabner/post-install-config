@@ -37,13 +37,13 @@ Key configurations include setting up roles, departments, teams, agents, users, 
 
 <h2>⚙️ Configuration Steps</h2>
 
-<p>In this section, we will walk through the necessary configuration steps using the Admin/Analyst Login Page. Below is the key URL needed to access the respective interfaces:</p>
+<p>In this section, we will walk through the necessary configuration steps using the Admin/Analyst Login Page. Below are the key URLs needed to access the respective interfaces:</p>
 
 <ul>
   <li><strong>Admin Login URL:</strong> <a href="http://localhost/osTicket/scp/login.php" target="_blank">http://localhost/osTicket/scp/login.php</a></li>
+</ul>
 
-
-`⬇️ Click to Expand ⬇️`
+<p><strong>⬇️ Click to Expand ⬇️</strong></p>
 <details>
   <summary>👤 Configure an Admin Role</summary>
 
