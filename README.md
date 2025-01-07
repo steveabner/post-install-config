@@ -212,9 +212,21 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 <details>
   <summary>📜 Configure SLA</summary>
 
+### In this section, I'll be creating 3 SLAs.
+  
+  - Sev-A (Grace Period: 1 Hour, Schedule: 24/7)
+  - Sev-B (Grace Period: 4 Hours, Schedule: 24/7)
+  - Sev-C (Grace Period: 8 Hours, Schedule: 24/7)
 
+- On the Admin Panel, hover over `Manage`, then click `SLA`.
 
+  ![2025-01-07 11_36_37-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/b692de95-2a6e-4575-bd09-bfbeda687617)
 
+- On the SLA page, click `Add New SLA Plan`
+
+  ![2025-01-07 11_38_55-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/3b61a268-76c2-4396-96d0-f6a1ecc6f324)
+
+- 
 
 
 
