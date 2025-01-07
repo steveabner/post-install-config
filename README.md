@@ -128,7 +128,41 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>Configure Roles</summary>
+  <summary>5️⃣ Create Agents (Workers)</summary>
+
+- On the Admin Panel, click `Agents`.
+
+  ![2025-01-06 23_04_54-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/4c376fb6-9987-4563-b2fc-3a8c2f5bbb69)
+
+- On the Agent page click `Add New Agent`.
+
+  ![2025-01-06 23_06_15-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/ccf084ce-79a1-4685-ae04-0187ed0fe549)
+
+- I'll name this Agent `John Smith`, input a fake email, set the username to `John`, then click `Set Password`.
+
+  ![2025-01-06 23_14_15-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a801a348-1eaf-4f3d-8e08-69c015d84e1f)
+
+- On the `Set Agent Password` screen, uncheck `Send the agent a password reset email`, input a password, then uncheck `Require password change at next login`. Then click `Set`.
+
+  ![2025-01-06 23_13_57-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/3cc60236-0b1d-4bc0-90de-f573141f907f)
+
+- Next, I'll click the `Access` tab.
+
+  ![2025-01-06 23_18_28-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/6b976992-7411-4e61-9617-d95161da959b)
+
+- On the access tab, I'll set the department to `SysAdmin`, and give the `Admin` Role.
+
+- Next, I'll click the `Teams` tab.
+
+  ![2025-01-06 23_21_15-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/64526cf0-65a0-4ff2-b789-958b3313c1d0)
+
+- On the teams tab, I'll select `Online-Banking`, and then click `Add`, and finally, click `Create`
+
+  ![2025-01-06 23_22_55-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/eb7bcfd1-f7b3-4bfd-9a13-4424d3dc2a35)
+  ![2025-01-06 23_23_52-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f575c883-1070-4d8b-8626-b1117546b0ac)
+
+- In summary, I created a worker named `John Smith`, assigned as an `Admin` in the `SysAdmin Department` and a member of the `Online-Banking Team`.
+
 </details>
 
 <details>
