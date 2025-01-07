@@ -117,11 +117,11 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 <details>
   <summary>4️⃣ 📝 Allow users to create tickets without an account</summary>
 
-- On the Admin Panel, hover over Settings, then click Users
+- On the Admin Panel, hover over `Settings`, then click `Users`.
 
   ![2025-01-06 22_50_55-Window](https://github.com/user-attachments/assets/aa6892ff-7d8a-4405-92f5-d2419d36f7a9)
 
-- On the user settings page, just make sure Require registration and login to create tickets is unchecked, then click Save Changes
+- On the user settings page, just make sure `Require registration and login to create tickets` is unchecked, then click `Save Changes`.
 
   ![2025-01-06 22_52_53-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a62a537c-0b52-4df6-9e86-be388014b882)
   
