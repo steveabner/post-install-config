@@ -250,15 +250,47 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 <details>
   <summary>❓ Configure Help Topics</summary>
 
-
-
-
-
-
-
-
-
-
+### In this section, I'll be creating the following Help Topics.
   
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
+
+---
+
+- On the Admin Panel, hover over `Manage`, then click `Help Topics`.
+
+  ![2025-01-07 12_20_23-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/108cced5-6683-4afd-936d-55fb6ddff9d4)
+
+- On the Help Topics page, Click `Add New Help Topic`.
+
+  ![2025-01-07 12_21_50-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/2a254e5f-c89f-4ebd-bc97-a6fbe071f5fa)
+
+- I'll name the Help Topic `Business Critical Outage`, set the Parent Topic to `Report a Problem`, then click `Add Topic`.
+
+  ![2025-01-07 12_26_08-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/dcc3c8a3-0d41-433e-97ac-d05bcdf42693)
+
+- Create another called `Personal Computer Issues` set the Parent Topic to `Report a Problem`, then click `Add Topic`.
+
+  ![2025-01-07 12_28_42-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/47efa210-055d-4c84-9264-b995c262af78)
+
+- Create another called `Equipment Request`, and set the parent topic to `General Inquiry`, then click `Add Topic`.
+
+  ![2025-01-07 12_31_23-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/6d70d2e2-195c-4054-a50a-2db041f797b3)
+
+- Create another called `Password Reset`, and set the parent topic to `Report a Problem`, then click `Add Topic`.
+
+  ![2025-01-07 12_34_28-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f7719662-5911-46ef-bfcc-c30ec857060b)
+
+- And finally, create a help topic called `Other`, set the parent topic to `General Inquiry`, then click `Add Topic`.
+
+  ![2025-01-07 12_36_22-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/7d6b49da-d884-451d-a036-0f2452b352cb)
+
+- Apologies for the redundancy in this section, but creating help topics for both customers and agents is a crucial step because it helps streamline the ticketing process and enhances the overall efficiency of the system.
+
+
+
 </details>
 <!-- 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ -->
