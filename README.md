@@ -18,10 +18,10 @@ Key configurations include setting up roles, departments, teams, agents, users, 
 
 <h2>🌍 Environments and Technologies Used 🌍</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- osTicket
-- Internet Information Services (IIS)
+- Microsoft Azure: Hosting virtual machines to simulate a real-world environment.
+- osTicket: Configuring and managing the ticketing system.
+- Remote Desktop: Accessing virtual environments for configuration tasks.
+- IIS (Internet Information Services): Serving as the web platform for osTicket.
   
 <h2>🖥️ Operating Systems Used </h2>
 
@@ -29,10 +29,11 @@ Key configurations include setting up roles, departments, teams, agents, users, 
 
 <h2>🛠️ Post-Install Configuration Objectives</h2>
 
-- Configuring roles, departments, and teams
-- Configuring agents and users
-- Configuring SLAs
-- Configuring Help Topics
+- Role Configuration: Establishing roles with defined permissions for managing tickets, tasks, and the knowledgebase.
+- Department and Team Setup: Creating specialized departments and teams to streamline task assignments and enhance operational efficiency.
+- Agent and User Management: Adding and configuring agents and end users to facilitate seamless communication.
+- SLA Implementation: Defining Service Level Agreements (SLAs) to ensure timely ticket resolution with 24/7 and business-hour schedules.
+- **Help Topics**: Setting up predefined help topics to guide users and improve issue categorization.
 
 <h2>⚙️ Configuration Steps</h2>
 
