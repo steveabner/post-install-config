@@ -37,7 +37,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 - Admin Login URL - http://localhost/osTicket/scp/login.php
 - User URL - http://localhost/osTicket
 
-⬇️ Click to Expand ⬇️
+`⬇️ Click to Expand ⬇️`
 <details>
   <summary>1️⃣ 👤 Configure an Admin Role 👤</summary>
 
