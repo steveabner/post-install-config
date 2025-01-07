@@ -128,7 +128,7 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 </details>
 
 <details>
-  <summary>5️⃣ Create Agents (Workers)</summary>
+  <summary>5️⃣ 👤 Create Agents (Workers)</summary>
 
 - On the Admin Panel, click `Agents`.
 
