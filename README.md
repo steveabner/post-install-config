@@ -158,6 +158,7 @@ Key configurations include setting up roles, departments, teams, agents, users, 
 - Next, I'll click the `Access` tab, then set the department to `SysAdmin`, and give the `Admin` Role.
 
   ![2025-01-06 23_18_28-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/6b976992-7411-4e61-9617-d95161da959b)
+  ![2025-01-11 14_30_23-post-install-config_README md at main · steveabner_post-install-config - Brave](https://github.com/user-attachments/assets/94a25db2-2d92-433b-bf70-b7dd860127ad)
 
 - Next, I'll click the `Teams` tab.
 
