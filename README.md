@@ -155,11 +155,9 @@ Key configurations include setting up roles, departments, teams, agents, users, 
 
   ![2025-01-06 23_13_57-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/3cc60236-0b1d-4bc0-90de-f573141f907f)
 
-- Next, I'll click the `Access` tab.
+- Next, I'll click the `Access` tab, then set the department to `SysAdmin`, and give the `Admin` Role.
 
   ![2025-01-06 23_18_28-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/6b976992-7411-4e61-9617-d95161da959b)
-
-- On the access tab, I'll set the department to `SysAdmin`, and give the `Admin` Role.
 
 - Next, I'll click the `Teams` tab.
 
